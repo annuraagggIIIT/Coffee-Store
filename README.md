@@ -24,32 +24,31 @@ Deployed at https://658b24e07e948fd394d02e86--cozy-peony-c1d3d1.netlify.app/
 
 1. Clone the repository:
 
-   bash
+   
    git clone https://github.com/annuraagggIIIT/Coffee-Store.git
    
 
 2. Navigate to the project directory:
 
-   \\\ash
+   
    cd Coffee-Store
-   \\\
+   
 
 3. Install dependencies:
 
-   \\\ash
+   
    npm install
-   \\\
+
 
 
 ## Usage
 
 1. Start the development server:
 
-   \\\ash
    npm start
-   \\\
 
-2. Open your browser and navigate to [http://localhost:3000/](http://localhost:3000/).
+
+2. Open your browser and navigate to https://658b24e07e948fd394d02e86--cozy-peony-c1d3d1.netlify.app/).
 
 3. Connect MetaMask to your Ethereum account.
 
