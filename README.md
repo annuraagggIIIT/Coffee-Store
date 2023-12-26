@@ -1,7 +1,7 @@
 ﻿# Coffee Shop Project
 
 This project is a simple Coffee Shop decentralized application (DApp) built using React and Ethereum. Users can interact with the smart contract to buy Chai and leave memos.
-###Deployed at https://658b24e07e948fd394d02e86--cozy-peony-c1d3d1.netlify.app/
+Deployed at https://658b24e07e948fd394d02e86--cozy-peony-c1d3d1.netlify.app/
 ## Table of Contents
 
 - [Getting Started](#getting-started)
@@ -24,9 +24,9 @@ This project is a simple Coffee Shop decentralized application (DApp) built usin
 
 1. Clone the repository:
 
-   \\\ash
+   bash
    git clone https://github.com/annuraagggIIIT/Coffee-Store.git
-   \\\
+   
 
 2. Navigate to the project directory:
 
